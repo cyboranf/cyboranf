@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate polish java developer, studying at University of Rzeszow. Currently finishing 3rd semester.</h3>
 
-- 🔭 I’m currently working on **MeetexApp** 
+- 🔭 I’m currently working on **MeetexApp**: https://www.github.com/cyboranf/MeetexApp
 - 🌱 I’m improving my java skill
 - 💬 Ask me about **my knowledge**
 - 📫 How to reach me: **cyboranf@gmail.com**
