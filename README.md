@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I am Filip 👋</h1>
 
-<h3 align="center">A passionate polish software engineer, studying at University of Rzeszow. Currently finishing 3rd semester.</h3>
+<h3 align="center">A passionate polish java developer, studying at University of Rzeszow. Currently finishing 3rd semester.</h3>
 
 - 🔭 I’m currently working on **MeetexApp** 
 - 🌱 I’m improving my java skill
