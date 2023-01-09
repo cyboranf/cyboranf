@@ -5,7 +5,7 @@
 
 #### 🚀 Technologies I'm currently mastering
 
-![Java](https://img.shields.io/badge/Java-15-blue?logo=java)
+![Java](https://img.shields.io/badge/Java-17-blue?logo=java)
 ![Spring](https://img.shields.io/badge/Spring-5.3-blue?logo=spring)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-2020.2.3-blue?logo=intellij-idea)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0.22-blue?logo=mysql)
