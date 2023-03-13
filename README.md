@@ -12,7 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES11-blue?logo=javascript)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyboranf&langs_count=8&theme=tokyonight" alt="Language stats.">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyboranf&langs_count=10&theme=tokyonight" alt="Language stats.">
 </div>
 
 #### 👨‍💻 Readme was created with some help from the community! ❤️
