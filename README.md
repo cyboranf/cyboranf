@@ -1,9 +1,9 @@
-### 👋 Hi there! I'm Filip and I'm glad you're here! 
+### <p align="center"> 👋 Hi there! I'm Filip and I'm glad you're here!</p> 
 <p align="center">
 <a href="https://www.linkedin.com/in/filip-cyboran-882a89225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/filip-cyboran-882a89225/" height="30" width="40" /></a>
 </p>
 
-#### 🚀 Technologies I'm currently mastering
+#### <p align="center">🚀 Technologies I'm currently mastering</p> 
 
 ![Java](https://img.shields.io/badge/Java-17-blue?logo=java)
 ![Spring](https://img.shields.io/badge/Spring-5.3-blue?logo=spring)
@@ -12,8 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES11-blue?logo=javascript)
 
 
-#### 👨‍💻 Readme was created with some help from the community! ❤️
-- [badges/shields](https://github.com/badges/shields)
+
 -------
 
 #### 🖊 Let's start with short introduction!
