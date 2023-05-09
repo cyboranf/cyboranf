@@ -26,18 +26,7 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-2020.2.3-blue?logo=pycharm)
 ![PHPstorm](https://img.shields.io/badge/PHPStorm-2020.2.3-blue?logo=phpstorm)
 
-<br>
 
-<h2 align="center"><img src="https://media0.giphy.com/media/AynUwd5uKhIevEWx54/giphy.gif?cid=ecf05e47iywvucds9x9pdb72x2aflphojug33t8j2izgk2hb&rid=giphy.gif&ct=s" width="50">𝚂𝚃𝙰𝚃𝚂<img src="https://media0.giphy.com/media/AynUwd5uKhIevEWx54/giphy.gif?cid=ecf05e47iywvucds9x9pdb72x2aflphojug33t8j2izgk2hb&rid=giphy.gif&ct=s" width="50"></h2>
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=cyboranf&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=cyboranf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyboranf&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-<br>
 
 
 -------
