@@ -2,7 +2,7 @@
 
 -------
 
-#### 🖊 Let's start with short introduction!
+#### 🖊 Let's start with a short introduction!
 
 ```Java
 package io.github.cyboranf.cyboranf.domain.entities;
