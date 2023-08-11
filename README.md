@@ -13,7 +13,7 @@ public class GitHubBio extends Bio {
     private final Map<String, String> bio;
     public GitHubBio() {
         this.bio = Map.of(
-             - 🔭 I’m currently working on MeetexApp
+             - 🔭 I’m currently working on my Portfolio
              - 🌱 I’m improving my java skill
              - 💬 Ask me about my knowledge
              - 📫 How to reach me: cyboranf@gmail.com
