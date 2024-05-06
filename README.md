@@ -1,8 +1,3 @@
-### <p align="center"> 👋 Hi there! I'm Filip and I'm glad you're here!</p> 
-
--------
-
-#### 🖊 Let's start with a short introduction!
 
 ```Java
 package io.github.cyboranf.cyboranf.domain.entities;
