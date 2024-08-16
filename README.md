@@ -11,9 +11,7 @@ public class GitHubBio extends Bio {
 
     public GitHubBio() {
         this.bio = Map.of(
-            "Current Work", "I’m currently working on my Portfolio",
-            "Skill", "I’m improving my java skill",
-            "Knowledge", "Ask me about my knowledge",
+            "Current Work", "I’m currently working JitTeam",
             "Contact", "How to reach me: cyboranf@gmail.com"
         );
         this.profile = "https://github.com/cyboranf";
