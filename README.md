@@ -11,10 +11,12 @@ public class GitHubBio extends Bio {
 
     public GitHubBio() {
         this.bio = Map.of(
-            "Current Work", "I’m currently working JitTeam",
+            "Current Work", "I’m currently working at JitTeam",
             "Contact", "How to reach me: cyboranf@gmail.com"
         );
         this.profile = "https://github.com/cyboranf";
+
+        // TODO: Implement the application I'm working on and establish a startup
     }
 
     public GitHubBio(String profile, Map<String, String> bio) {
@@ -30,11 +32,9 @@ public class GitHubBio extends Bio {
                 .collect(Collectors.joining(System.lineSeparator()));
     }
 
+    // Getter for GitHub profile URL
     public String getProfile() {
         return profile;
     }
-}                                                                                                                                                            
-
-
-
-
+}                                                                                                                                         
+```
