@@ -1,40 +1,69 @@
+# 𝕮𝖞𝖇𝖔𝖗𝖆𝖓𝕱  
+`Engineer (titles are bullshit - real engineering happens outside lecture halls)`
 
-```Java
-package io.github.cyboranf.cyboranf.domain.entities;
+## 🚀 Current Reign
+**CTO @ Next-Gen Memorial Empire**  
+*Poland's largest death-tech ecosystem*  
+- Virtual cemeteries 3.0 (with NFT grave markers)  
+- AI-powered legacy avatars  
+- IoT-integrated funeral services  
 
-import java.util.Map;
-import java.util.stream.Collectors;
+**CTO @ UNI-LINK**  
+*Networking revolution*  
+🃏 NFC-embedded premium business cards  
+🌐 Cloud-powered digital identity  
+♾️ Infinite supply for [JAZDA](https://jazda.io)  
 
-public class GitHubBio extends Bio {  
-    private final String profile;
-    private final Map<String, String> bio;
+## 🔥 Battle Scars
+`Operation Academic Betrayal (2025)`  
+- Forced AWS deployment by "security advisor"  
+- 0-day via XSS on Knych.pl + sex@sex.com table entries  
+- Verdict: *"Unworthy of engineer title"*  
+- My counter: **Shipped anyway**
 
-    public GitHubBio() {
-        this.bio = Map.of(
-            "Current Work", "I’m currently working at JitTeam",
-            "Contact", "How to reach me: cyboranf@gmail.com"
-        );
-        this.profile = "https://github.com/cyboranf";
-
-        // TODO: Implement the application I'm working on and establish a startup
+## ☠️ Tech Manifesto  
+```java
+public void build() {
+    while(!legacySystem.crushed()) {
+        innovate();
+        if (theorists.complaining()) ignore();
+        ship();
     }
-
-    public GitHubBio(String profile, Map<String, String> bio) {
-        this.profile = profile;
-        this.bio = bio;
-    }
-
-    @Override 
-    public String getBio() {
-        return bio.entrySet()
-                .stream()
-                .map(entry -> "- " + entry.getKey() + ": **" + entry.getValue() + "**")
-                .collect(Collectors.joining(System.lineSeparator()));
-    }
-
-    // Getter for GitHub profile URL
-    public String getProfile() {
-        return profile;
-    }
-}                                                                                                                                         
+}
 ```
+## 💀 Coming Soon  
+
+🔜 MemorialTech 3.0 + Web5 integration  
+🔜 Academic-industrial complex dismantling  
+🔜 New security standard: **Chaos-Driven Development**
+
+---
+
+## 📌 Full Story Mode
+### Why Titles Lie
+- Survived university "cybersecurity" courses that taught:  
+  ✖️ Theoretical OWASP > actual deployment security  
+  ✖️ AWS best practices from professors who never shipped  
+  ✖️ How to get 0wned by your own advisor
+
+### How I Build
+| Academia Preaches | Reality Demands |
+|--------------------|------------------|
+| Over-engineer docs | Working MVP NOW |  
+| Follow standards   | Create standards |  
+| Ask permission     | Ship, then fight |
+
+
+``` java
+public class Mission {
+    public static void main(String[] args) {
+        while(true) {
+            disrupt();
+            innovate();
+            if (haters.exist()) troll();
+        }
+    }
+}
+```
+
+# `Riding through the tech industry like YE \n through * history`
