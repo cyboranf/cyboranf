@@ -66,4 +66,3 @@ public class Mission {
 }
 ```
 
-# `Riding through the tech industry like YE \n through * his industry`
