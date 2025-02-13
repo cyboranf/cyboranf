@@ -33,7 +33,6 @@ public void build() {
 ```
 ## 💀 Coming Soon  
 
-🔜 MemorialTech 3.0 + Web5 integration  
 🔜 Academic-industrial complex dismantling  
 🔜 New security standard: **Chaos-Driven Development**
 
