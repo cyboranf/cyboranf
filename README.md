@@ -8,7 +8,7 @@
 - AI-powered legacy avatars  
 - IoT-integrated funeral services  
 
-**CTO @ wizka-io**  
+**CTO @Wizka-io**  
 *Networking revolution*  
 🃏 NFC-embedded premium business cards  
 🌐 Cloud-powered digital identity  
